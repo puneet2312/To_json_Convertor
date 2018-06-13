@@ -1,1 +1,1 @@
-Python Scripts to convert excel files to json files.
+Python Scripts to convert excel files to json files using Pandas.
